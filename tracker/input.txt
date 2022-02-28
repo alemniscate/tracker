@@ -1,0 +1,20 @@
+add students
+John Doe johnd@email.net
+Jane Spark jspark@yahoo.com
+back
+list
+add points
+1 8 7 7 5
+1 7 6 9 7
+1 6 5 5 0
+2 8 0 8 6
+2 7 0 0 0
+2 9 0 0 5
+back
+statistics
+Java
+DSA
+Databases
+Spring
+back
+exit
